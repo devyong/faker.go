@@ -59,11 +59,12 @@ func capitalize(s string) string {
 }
 
 // Example:
+//
 //	package main
 //
 //	import (
 //		"fmt"
-//		"syreclabs.com/go/faker"
+//		"github.com/devyong/faker.go"
 //	)
 //
 //	func main() {
@@ -73,14 +74,15 @@ func capitalize(s string) string {
 //	}
 //
 // Output:
-// 	If we bypass the program, we can get to the AGP protocol through the optical SDD alarm!
-// 	We need to calculate the back-end XML microchip!
-// 	Try to generate the GB bus, maybe it will hack the neural panel!
-// 	You can't navigate the transmitter without synthesizing the optical SMS bus!
-// 	Use the optical THX application, then you can override the mobile port!
-// 	The CSS monitor is down, quantify the multi-byte bus so we can calculate the XSS bandwidth!
-// 	Connecting the card won't do anything, we need to back up the multi-byte RSS card!
-// 	I'll reboot the primary SMTP feed, that should monitor the XML protocol!
+//
+//	If we bypass the program, we can get to the AGP protocol through the optical SDD alarm!
+//	We need to calculate the back-end XML microchip!
+//	Try to generate the GB bus, maybe it will hack the neural panel!
+//	You can't navigate the transmitter without synthesizing the optical SMS bus!
+//	Use the optical THX application, then you can override the mobile port!
+//	The CSS monitor is down, quantify the multi-byte bus so we can calculate the XSS bandwidth!
+//	Connecting the card won't do anything, we need to back up the multi-byte RSS card!
+//	I'll reboot the primary SMTP feed, that should monitor the XML protocol!
 func (h fakeHacker) Phrases() []string {
 	return []string{
 		fmt.Sprintf("If we %s the %s, we can get to the %s %s through the %s %s %s!",
