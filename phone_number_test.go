@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"testing"
 
-	"syreclabs.com/go/faker/locales"
+	"github.com/devyong/faker.go/locales"
 )
 
 func TestPhoneNumberPhoneNumber(t *testing.T) {

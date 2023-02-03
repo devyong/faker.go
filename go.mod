@@ -1,4 +1,4 @@
-module syreclabs.com/go/faker
+module github.com/devyong/faker.go
 
 go 1.11
 
